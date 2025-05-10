@@ -283,7 +283,7 @@ p {
 
 @media only screen and (max-width: 1390px) {
   .image-wrapper {
-    
+    display:grid;
   }
   .hulu-cover {
     width: 528.5px;
