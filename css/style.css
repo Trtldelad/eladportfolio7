@@ -168,8 +168,8 @@ p {
   margin-bottom: 50px;
 }
 .image-wrapper img {
-  height: 250px;
-  width: 250px;
+  height: 150px;
+  width: 150px;
   border-radius: 50%;
   display: inline-block;
   border: 4px solid white;
@@ -283,7 +283,7 @@ p {
 
 @media only screen and (max-width: 1390px) {
   .image-wrapper {
-    display: none;
+    
   }
   .hulu-cover {
     width: 528.5px;
